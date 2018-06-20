@@ -27,10 +27,3 @@ function sayHiToGrandma(string) {
   }
   // return undefined
 };
-
-
-
-
-
-
-
